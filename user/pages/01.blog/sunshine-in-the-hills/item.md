@@ -1,5 +1,5 @@
 ---
-title: Sunshine and Waves
+title: Sunshine and Splashes
 date: 14:55 07/11/2014
 author: Tasha Maxwell
 taxonomy:
